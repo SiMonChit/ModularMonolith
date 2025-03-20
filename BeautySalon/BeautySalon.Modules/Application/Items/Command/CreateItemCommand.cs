@@ -1,5 +1,4 @@
-﻿using BeautySalon.Modules.Domain.Entities;
-using MediatR;
+﻿using MediatR;
 
 namespace BeautySalon.Modules.Application.Items.Command
 {

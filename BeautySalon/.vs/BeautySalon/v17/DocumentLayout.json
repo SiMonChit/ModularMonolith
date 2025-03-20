@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\ModularMonolith\\BeautySalon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10CCA9E-A1B7-4F2A-9657-8AC2456C9042}|BeautySalon.Modules\\BeautySalon.Modules.csproj|c:\\projects\\modularmonolith\\beautysalon\\beautysalon.modules\\domain\\entities\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10CCA9E-A1B7-4F2A-9657-8AC2456C9042}|BeautySalon.Modules\\BeautySalon.Modules.csproj|solutionrelative:beautysalon.modules\\domain\\entities\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10CCA9E-A1B7-4F2A-9657-8AC2456C9042}|BeautySalon.Modules\\BeautySalon.Modules.csproj|c:\\projects\\modularmonolith\\beautysalon\\beautysalon.modules\\application\\items\\command\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10CCA9E-A1B7-4F2A-9657-8AC2456C9042}|BeautySalon.Modules\\BeautySalon.Modules.csproj|solutionrelative:beautysalon.modules\\application\\items\\command\\createitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Projects\\ModularMonolith\\BeautySalon\\BeautySalon.Modules\\Domain\\Entities\\Items.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Modules\\Domain\\Entities\\Items.cs",
+              "ToolTip": "C:\\Projects\\ModularMonolith\\BeautySalon\\BeautySalon.Modules\\Domain\\Entities\\Items.cs",
+              "RelativeToolTip": "BeautySalon.Modules\\Domain\\Entities\\Items.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:18:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateItemCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\ModularMonolith\\BeautySalon\\BeautySalon.Modules\\Application\\Items\\Command\\CreateItemCommand.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Modules\\Application\\Items\\Command\\CreateItemCommand.cs",
+              "ToolTip": "C:\\Projects\\ModularMonolith\\BeautySalon\\BeautySalon.Modules\\Application\\Items\\Command\\CreateItemCommand.cs",
+              "RelativeToolTip": "BeautySalon.Modules\\Application\\Items\\Command\\CreateItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:17:43.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
